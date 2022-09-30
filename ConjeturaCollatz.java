@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 import java.util.Scanner;
-
+/*Prueba */
 public class ConjeturaCollatz{
     public static void main(String[] args) {
         int numero = 1;
